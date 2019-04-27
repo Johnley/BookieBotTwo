@@ -1,0 +1,20 @@
+{
+  "name": "bookbot2",
+  "version": "1.0.0",
+  "description": "Bookiebot 2, now a bit more actionable",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnley",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.6.0",
+    "body-parser": "^1.19.0",
+    "dialogflow": "^0.8.2",
+    "dialogflow-fulfillment": "^0.6.1",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
